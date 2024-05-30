@@ -9,6 +9,7 @@ ERROR_CONSULTA = "ERROR AL REALIZAR LA CONSULTA"
 # Inicializa la aplicación Flask
 app = Flask(__name__)
 
+
 # Carga las variables de entorno
 load_dotenv()
 api_key = os.getenv("AZURE_OPENAI_API_KEY")
