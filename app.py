@@ -1,8 +1,11 @@
 from flask import Flask, request, abort
 import traceback
 from manejadorConsulta import ManejadorConsultas, ERROR_CONSULTA
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app, resources={r"/*": {"origins": "http://localhost:4200"}})
+
 @app.route("/")
 def hello_world():
     return "Hello, World!"
