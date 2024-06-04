@@ -31,7 +31,7 @@ class ManejadorConsultas:
             
             # Construcción de la URL
             url = f"{api_endpoint}/deployments/{assistantModel}/chat/completions?api-version={version_api}"
-           # url = "https://asistenteepmopenai.openai.azure.com/openai/deployments/asistente-gpt/chat/completions?api-version=2024-02-15-preview"#f"{api_endpoint}/deployments/{assistantModel}/chat/completions?api-version={version_api}"
+        # url = "https://asistenteepmopenai.openai.azure.com/openai/deployments/asistente-gpt/chat/completions?api-version=2024-02-15-preview"#f"{api_endpoint}/deployments/{assistantModel}/chat/completions?api-version={version_api}"
             print(f"URL construida: {url}")  # Para depuración
 
             # Headers
