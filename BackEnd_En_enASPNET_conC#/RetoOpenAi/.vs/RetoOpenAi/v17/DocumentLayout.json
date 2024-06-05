@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|c:\\users\\leonel.martinez\\desktop\\retoopenaicsharp\\retoopenai\\retoopenai\\clases\\manejadorconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|solutionrelative:retoopenai\\clases\\manejadorconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\retoopenai\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|solutionrelative:retoopenai\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\retoopenai\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|solutionrelative:retoopenai\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\retoopenai\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3D1058-4A64-4C00-A9CF-B0CAACF2EF54}|RetoOpenAi\\RetoOpenAi.csproj|solutionrelative:retoopenai\\controllers\\consultacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "RetoOpenAi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "RetoOpenAi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:34:31.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultaController.cs",
+              "DocumentMoniker": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\Controllers\\ConsultaController.cs",
+              "RelativeDocumentMoniker": "RetoOpenAi\\Controllers\\ConsultaController.cs",
+              "ToolTip": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\Controllers\\ConsultaController.cs",
+              "RelativeToolTip": "RetoOpenAi\\Controllers\\ConsultaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:43:43.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManejadorConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\Clases\\ManejadorConsulta.cs",
+              "RelativeDocumentMoniker": "RetoOpenAi\\Clases\\ManejadorConsulta.cs",
+              "ToolTip": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\Clases\\ManejadorConsulta.cs",
+              "RelativeToolTip": "RetoOpenAi\\Clases\\ManejadorConsulta.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwD0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T18:36:47.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\Web.config",
+              "RelativeDocumentMoniker": "RetoOpenAi\\Web.config",
+              "ToolTip": "C:\\Users\\leonel.martinez\\Desktop\\RetoOpenAIcsharp\\RetoOpenAi\\RetoOpenAi\\Web.config",
+              "RelativeToolTip": "RetoOpenAi\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-04T18:32:01.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
